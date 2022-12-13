@@ -1,2 +1,6 @@
 # GMCS-Williem-Gomes
-Repositório para conteúdos da disciplina de Gerência de Configuração de Software
+
+## Colaboradores
+Coloque seu nome abaixo se você é um dos colaboradores do repositório:
+* Williem Berg (dono, @httpwilliem)
+* 
